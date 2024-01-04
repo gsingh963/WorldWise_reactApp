@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Ludhiana",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-01T13:03:15.112Z",
+      "notes": "Love this place\n",
+      "position": {
+        "lat": "30.92142954432744",
+        "lng": "75.88256835937501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Amritsar",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-04T17:41:23.406Z",
+      "notes": "Golden city",
+      "position": {
+        "lat": "31.648852849724577",
+        "lng": "74.90478515625001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Pasaband",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-01-04T17:42:56.783Z",
+      "notes": "gur",
+      "position": {
+        "lat": "33.76426291688297",
+        "lng": "64.77539062500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Patiala",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-04T18:08:39.156Z",
+      "notes": "loved this city",
+      "position": {
+        "lat": "30.32570863828211",
+        "lng": "76.44287109375001"
+      },
+      "id": 98443204
+    }
+  ]
+}
